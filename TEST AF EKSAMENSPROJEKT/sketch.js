@@ -1,5 +1,4 @@
-
-hej shaheer
+ghassan har en cringe far
 let img
 let audio
 let x
