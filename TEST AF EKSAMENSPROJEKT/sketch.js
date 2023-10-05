@@ -2,6 +2,9 @@ ghassan har en cringe far
 eow
 akil er hund
 hashim er skæv
+//ligma? Ligmaballs niggeh
+
+
 let img
 let audio
 let x
