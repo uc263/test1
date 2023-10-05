@@ -1,6 +1,7 @@
 ghassan har en cringe far
 eow
 akil er hund
+hashim er skæv
 let img
 let audio
 let x
